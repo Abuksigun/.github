@@ -4,6 +4,6 @@ RTS game Siege Up modding - https://github.com/siegeUp
 
 Personal projects - https://github.com/mrtrizer
 
-Web site - abuksigun.com
+Web site - https://abuksigun.com
 
 LinkedIn - https://www.linkedin.com/in/denis-zdorovtsov/
